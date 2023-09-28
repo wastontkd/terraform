@@ -1,2 +1,8 @@
 # terraform
-Respositorio para armazenar meus códigos terraform. Este projeto pode server como portifólio em um futuro proximo
+
+Este projeto armazenas meus códigos terraform. Aqui irei publicar scripts para as seguintes plataformas de nuvem:
+
+- GCP
+- AWS
+
+
